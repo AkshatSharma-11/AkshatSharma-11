@@ -185,4 +185,16 @@ height="35"
               ▼                ▼                ▼
         ┌──────────┐     ┌──────────┐     ┌──────────┐
         │   LLM    │     │   RAG    │     │  AGENTS  │
-        └────┬─────┘    
+        └────┬─────┘   
+
+ 🧠 Advanced LLM Architectures
+🔗 Agentic AI
+📚 Advanced RAG
+🔌 MCP
+⚡ LangGraph
+☁️ Cloud Architecture
+🐳 Docker
+☸️ Kubernetes
+🔄 CI/CD
+📊 MLOps
+🔐 AI Security
