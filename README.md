@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Akshat Sharma
 
-### 🤖 AI/ML Engineer • Generative AI • LLM • RAG • Agentic AI
+### 🤖 AI/ML + Cloud Engineer • Generative AI • LLM • RAG • Agentic AI 
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Generative+AI+Developer;LLM+%7C+RAG+%7C+AI+Agents;Cloud+%26+DevOps+Enthusiast;Building+Intelligent+Systems" />
