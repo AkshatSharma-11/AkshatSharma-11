@@ -218,37 +218,3 @@ flowchart TB
     CONT --> CLOUD["Cloud Infrastructure"]
     CLOUD --> CICD["CI/CD & Operations"]
 
-/div>
-##  🎯 2026 — Engineering Roadmap
-                    AI ENGINEERING
-                          │
-        ┌─────────────────┼─────────────────┐
-        ▼                 ▼                 ▼
-      GenAI             Cloud             MLOps
-        │                 │                 │
-        ▼                 ▼                 ▼
-       RAG              AWS/Azure       Kubernetes
-        │                 │                 │
-        ▼                 ▼                 ▼
-     Agents           Terraform          CI/CD
-        │                 │                 │
-        └─────────────────┼─────────────────┘
-                          ▼
-                  Production Systems
-
-
-## DATA
-  ↓
-DATA PROCESSING
-  ↓
-EMBEDDINGS
-  ↓
-VECTOR DATABASE
-  ↓
-RETRIEVAL
-  ↓
-LLM
-  ↓
-AI RESPONSE
-  ↓
-EVALUATION & MONITORING
