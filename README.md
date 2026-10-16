@@ -218,7 +218,7 @@ flowchart TB
     CONT --> CLOUD["Cloud Infrastructure"]
     CLOUD --> CICD["CI/CD & Operations"]
 
-🎯 2026 — Engineering Roadmap
+##  🎯 2026 — Engineering Roadmap
                     AI ENGINEERING
                           │
         ┌─────────────────┼─────────────────┐
@@ -236,7 +236,7 @@ flowchart TB
                   Production Systems
 
 
-DATA
+## DATA
   ↓
 DATA PROCESSING
   ↓
